@@ -1,4 +1,1 @@
-say_hello("name")
-  puts ("Hello #{name}!")
-  say_hello "Gabriela"
-end
+puts say_hello("name")
