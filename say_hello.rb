@@ -2,4 +2,4 @@
 say_hello("Gabriela")
 
 # The method prints the text tto the screen:
-say_hello Gabriela!
+say_hello 
